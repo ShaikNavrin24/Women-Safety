@@ -2,12 +2,12 @@
 
    ![women safety banner_11zon](https://github.com/Nihalahamad1905/Nyayaprabha/assets/118530992/3ef4917e-fba9-4764-8d0c-a6ccb7fbd8ae)
    
-  <p>Nyayaprabha is a beacon of hope for women seeking a safe and accessible platform to voice their concerns and fight for justice. It's not just a website; it's a movement empowered by technology and empathy.</p>
+  <p>Suraksha is a beacon of hope for women seeking a safe and accessible platform to voice their concerns and fight for justice. It's not just a website; it's a movement empowered by technology and empathy.</p>
 
   <h2>Empowering Women, One Complaint at a Time</h2>
 
   <h3>A Safe Haven</h3>
-  <p>Nyayaprabha provides a secure and confidential space for women to register complaints related to any form of harassment, discrimination, or injustice. Whether it's workplace abuse, domestic violence, or social stigma, Nyayaprabha empowers women to speak their truth without fear.</p>
+  <p>Suraksha provides a secure and confidential space for women to register complaints related to any form of harassment, discrimination, or injustice. Whether it's workplace abuse, domestic violence, or social stigma, Nyayaprabha empowers women to speak their truth without fear.</p>
 
   <h3>User-friendly Interface</h3>
   <p>Navigating the website is as easy as sharing your story. The intuitive frontend design makes registering complaints and accessing resources a seamless experience, even for those unfamiliar with technology.</p>
@@ -17,7 +17,7 @@
 
   <h2>A Beacon of Hope in a Challenging World</h2>
 
-  <p>Nyayaprabha recognizes the unique challenges women face in seeking justice. It breaks down barriers, empowers voices, and provides a platform for women to be heard, believed, and supported. It's a testament to the power of technology and collaboration in creating a safer and more just world for all.</p>
+  <p>Suraksha recognizes the unique challenges women face in seeking justice. It breaks down barriers, empowers voices, and provides a platform for women to be heard, believed, and supported. It's a testament to the power of technology and collaboration in creating a safer and more just world for all.</p>
 
   <h2>Technology Stack</h2>
 
